@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Skype
+Comment=Open chat with skype user
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=skypeforlinux
+X-KDE-Library=krunner_skype
+X-KDE-PluginInfo-Author=Marcin Morawski
+X-KDE-PluginInfo-Name=skype
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-AdvertiseSingleRunnerQueryMode=true
